@@ -47,7 +47,7 @@ Follow these steps to set up the project locally:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/imcahyamu/todo-list.git
+    git clone https://github.com/indramusca/todo-list.git
     cd todo-list-app
     ```
 
@@ -123,8 +123,6 @@ Once the development server is running, you can use the To-Do List application a
 
 ## Screenshots
 
-_(Add screenshots of your application here to provide a visual overview.)_
-
 ![To-Do List Screenshot](public/images/screenshots/todo-list.png)
 
 ## Contributing
@@ -164,4 +162,4 @@ If you have any questions or suggestions, feel free to reach out:
 
 -   **Email:** imcahyamu@gmail.com
 -   **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/imcahyamu)
--   **GitHub:** [your-username](https://github.com/imcahyamu)
+-   **GitHub:** [your-username](https://github.com/indramusca)
